@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713745902 source:d:\ufrgs\ed\duplamenteencadiado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADS.h"
+
+1713733993 d:\ufrgs\ed\duplamenteencadiado\tads.h
+
+1713745839 source:d:\ufrgs\ed\duplamenteencadiado\tads.c
+	"TADS.h"
+	<stdlib.h>
+	<stdio.h>
+

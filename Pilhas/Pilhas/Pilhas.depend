@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714341601 source:d:\ufrgs\ed\pilhas\tads.c
+	"tads.h"
+	<stdio.h>
+	<stdlib.h>
+
+1714341926 d:\ufrgs\ed\pilhas\tads.h
+
+1714341915 source:d:\ufrgs\ed\pilhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tads.h"
+

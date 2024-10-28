@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1721237373 source:c:\users\aluno\documents\arvore\tad.c
+	"tad.h"
+	<stdio.h>
+	<stdlib.h>
+
+1721236665 c:\users\aluno\documents\arvore\tad.h
+
+1721237029 source:c:\users\aluno\documents\arvore\main.c
+	<stdio.h>
+	"tad.h"
+

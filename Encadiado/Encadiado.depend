@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1713204337 source:c:\users\aluno\desktop\iuri\encadiado\tads.c
+	"tads.h"
+	<stdio.h>
+	<stdlib.h>
+
+1713204387 source:c:\users\aluno\desktop\iuri\encadiado\main.c
+	<stdio.h>
+	"tads.h"
+
+1713202508 c:\users\aluno\desktop\iuri\encadiado\tads.h
+
+1713225053 source:d:\ufrgs\ed\encadiado\tads.c
+	"tads.h"
+	<stdio.h>
+	<stdlib.h>
+
+1713225695 d:\ufrgs\ed\encadiado\tads.h
+
+1713225536 source:d:\ufrgs\ed\encadiado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tads.h"
+
